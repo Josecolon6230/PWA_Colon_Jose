@@ -22,7 +22,26 @@
     <favorites_list name="Colon_Jose_PWA" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final Exam/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="final.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final Exam/js/final.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="36" selection-start="231" selection-end="231" vertical-scroll-proportion="0.21645021" vertical-offset="0" max-vertical-offset="693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -34,13 +53,45 @@
       <list>
         <option value="$PROJECT_DIR$/Day2/index.html" />
         <option value="$PROJECT_DIR$/Day2/js/main.js" />
+        <option value="$PROJECT_DIR$/wk1 thedual/main.html" />
+        <option value="$PROJECT_DIR$/wk1 thedual/index.html" />
+        <option value="$PROJECT_DIR$/../../goal1_assign_duel1 FINAL/js/main.js" />
+        <option value="$PROJECT_DIR$/Day3/index.html" />
+        <option value="$PROJECT_DIR$/Day3/js/main.js" />
+        <option value="$PROJECT_DIR$/wk1 thedual/js/main.js" />
+        <option value="$PROJECT_DIR$/Day5/js/advanceSelecting.js" />
+        <option value="$PROJECT_DIR$/Day5/index.html" />
+        <option value="$PROJECT_DIR$/Day5/js/main.js" />
+        <option value="$PROJECT_DIR$/goal3_assign_debug_v2/js/search.js" />
+        <option value="$PROJECT_DIR$/goal6_assign_midterm/index.html" />
+        <option value="$PROJECT_DIR$/Day7/index.html" />
+        <option value="$PROJECT_DIR$/Day7/js/main.js" />
+        <option value="$PROJECT_DIR$/Day8/js/main.js" />
+        <option value="$PROJECT_DIR$/Day8/js/constructor.js" />
+        <option value="$PROJECT_DIR$/goal4_assign_duel3/index.html" />
+        <option value="$PROJECT_DIR$/Day9/index.html" />
+        <option value="$PROJECT_DIR$/Day9/js/main.js" />
+        <option value="$PROJECT_DIR$/Day9/js/objects.js" />
+        <option value="$PROJECT_DIR$/Day8/index.html" />
+        <option value="$PROJECT_DIR$/Objects/index.html" />
+        <option value="$PROJECT_DIR$/Objects/js/main.js" />
+        <option value="$PROJECT_DIR$/Objects/js/person.js" />
+        <option value="$PROJECT_DIR$/goal4_assign_duel3/js/main.js" />
+        <option value="$PROJECT_DIR$/goal6_assign_midterm/js/main.js" />
+        <option value="$PROJECT_DIR$/../../objects/goal7_assign_obj_to_prototypes/js/person.js" />
+        <option value="$PROJECT_DIR$/objects/goal7_assign_obj_to_prototypes/js/person.js" />
+        <option value="$PROJECT_DIR$/Final Exam/js/main.js" />
+        <option value="$PROJECT_DIR$/Final Exam/index.html" />
+        <option value="$PROJECT_DIR$/Final Exam/js/final.js" />
+        <option value="$PROJECT_DIR$/goal7_assign_obj_to_prototypes/js/person.js" />
+        <option value="$PROJECT_DIR$/goal7_assign_obj_to_prototypes/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
+    <option name="x" value="18" />
     <option name="y" value="22" />
-    <option name="width" value="1400" />
+    <option name="width" value="1351" />
     <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -69,6 +120,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -87,9 +139,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_PWA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_PWA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goal6_assign_midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_PWA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_PWA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goal6_assign_midterm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,16 +182,20 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Final Exam/js" />
+      <recent name="$PROJECT_DIR$/Final Exam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day7/js" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -119,15 +206,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -166,23 +261,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="22" width="1400" height="790" extended-state="0" />
+    <frame x="18" y="22" width="1351" height="790" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26202813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -202,21 +297,290 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="14" selection-start="1893" selection-end="1893" vertical-scroll-proportion="0.0" vertical-offset="552" max-vertical-offset="1875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="1847" selection-end="1847" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="2" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.0" vertical-offset="1182" max-vertical-offset="1875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="27" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.0" vertical-offset="942" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="22" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="575" selection-end="575" vertical-scroll-proportion="0.45887446" vertical-offset="297" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="119" selection-end="119" vertical-scroll-proportion="0.17937219" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day2/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="252" selection-end="252" vertical-scroll-proportion="0.32467532" vertical-offset="0" max-vertical-offset="693">
+        <state line="11" column="8" selection-start="152" selection-end="218" vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="1510" max-vertical-offset="2190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="2" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="275" selection-end="275" vertical-scroll-proportion="0.27863777" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal3_assign_debug_v2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="1847" selection-end="1847" vertical-scroll-proportion="0.71428573" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal6_assign_midterm/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="46" selection-start="268" selection-end="268" vertical-scroll-proportion="-0.08658009" vertical-offset="285" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="282" selection-end="290" vertical-scroll-proportion="0.24663678" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="93" selection-end="93" vertical-scroll-proportion="0.13235295" vertical-offset="0" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/js/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="1" selection-start="881" selection-end="881" vertical-scroll-proportion="0.77922076" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/js/constructor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="41" selection-start="877" selection-end="877" vertical-scroll-proportion="0.73593074" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.11210762" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1 thedual/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="61" selection-end="2320" vertical-scroll-proportion="0.10822511" vertical-offset="0" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal6_assign_midterm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="37" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.57164633" vertical-offset="210" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9/js/objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding>
-            <element signature="e#0#37#0" expanded="false" />
+            <element signature="e#39#421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="6" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="91" selection-end="91" vertical-scroll-proportion="0.13452914" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="284" selection-end="284" vertical-scroll-proportion="0.2515244" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="75" selection-start="842" selection-end="842" vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal4_assign_duel3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal4_assign_duel3/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="29" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.8206278" vertical-offset="366" max-vertical-offset="1065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/goal7_assign_obj_to_prototypes/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.56277055" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/goal7_assign_obj_to_prototypes/object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="4" selection-start="987" selection-end="987" vertical-scroll-proportion="0.7847534" vertical-offset="0" max-vertical-offset="669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/goal7_assign_obj_to_prototypes/js/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="9" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal7_assign_obj_to_prototypes/object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal7_assign_obj_to_prototypes/js/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="64" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal7_assign_obj_to_prototypes/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="1" selection-start="615" selection-end="615" vertical-scroll-proportion="0.8008658" vertical-offset="0" max-vertical-offset="693">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.15695067" vertical-offset="0" max-vertical-offset="669">
+        <state line="8" column="0" selection-start="112" selection-end="119" vertical-scroll-proportion="0.17937219" vertical-offset="0" max-vertical-offset="669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goal6_assign_midterm/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="20" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/js/final.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="231" selection-end="231" vertical-scroll-proportion="0.21645021" vertical-offset="0" max-vertical-offset="693">
           <folding />
         </state>
       </provider>
